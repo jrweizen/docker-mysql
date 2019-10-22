@@ -12,3 +12,5 @@ Configuration file:  /usr/local/etc/my.cnf
 # Sample Database + HowTo import:
 https://www.mysqltutorial.org/mysql-sample-database.aspx
 
+# Run:
+docker run -i -t mysql:5.6 /bin/bash
